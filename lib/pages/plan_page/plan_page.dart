@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import '../components/app_bar.dart';
+import '../../components/app_bar.dart';
 
 class PlanPage extends StatelessWidget {
   const PlanPage({Key? key}) : super(key: key);
